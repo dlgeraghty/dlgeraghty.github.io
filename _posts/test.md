@@ -7,3 +7,4 @@ tags: [test]     # TAG names should always be lowercase
 
 # This is my first post
 hello world, can you see my post?
+hey, now everything is bundled
